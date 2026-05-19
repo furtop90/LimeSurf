@@ -41,7 +41,7 @@ LimeSurf is a web browser written in Python with a PyQt5 interface using the Qt5
 
 <!-- Botón para ir a los Releases -->
 <div align="center" style="margin: 20px 0;">
-  <a href="https://github.com/username/repo/releases/latest" style="text-decoration: none;">
+  <a href="https://github.com/furtop90/LimeSurf/releases" style="text-decoration: none;">
     <div style="
       display: inline-block;
       background: linear-gradient(135deg, #3584e4, #1b6ac6);
@@ -54,7 +54,7 @@ LimeSurf is a web browser written in Python with a PyQt5 interface using the Qt5
       box-shadow: 0 4px 15px rgba(53, 132, 228, 0.3);
       transition: transform 0.2s, box-shadow 0.2s;
     ">
-      download the app or the source code
+      download the app or the source code➡️
     </div>
   </a>
 </div>
